@@ -1,1 +1,0 @@
-# Chef-Plugin-for-vRO-Extensions-for-vRA7-
